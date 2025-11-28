@@ -1,5 +1,5 @@
 <?php
-$idade = 18;
+$idade = 16;
 if ($idade >= 18) {
     echo "Você é maior de idade.";
 } else {
